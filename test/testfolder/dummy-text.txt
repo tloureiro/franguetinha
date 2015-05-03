@@ -1,0 +1,23 @@
+-fallback for video 
+-firefox fallback for video object-fit
+-mobile fallback for no video
+
+
+DONE
+- ANALYTICS
+spa-html-state-generator ->       page -> jqueries
+- back button browsers
+-voltar pro jquery do google
+- add links to seeing-eye-pi
+- links github, linked, mail
+- javascriptize mail
+- x symbol shadow
+- x symbol grows when hovered
+- voltar com topo depois de fechar o about
+- x about me
+-alt no close btn
+-left arrow browser
+-onhover play video
+-try other fonts
+-change icons to another style
+-underline no clique do close-btn   
