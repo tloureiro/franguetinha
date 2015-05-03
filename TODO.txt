@@ -1,6 +1,5 @@
-OMXPLAYER WRAPPER
-MEDIA NAVIGATOR WIDGET
-
-initialization performance
-
-layout tests
+TODO
+-Media length info
+-Queue music
+-Daemon
+-youtube search
