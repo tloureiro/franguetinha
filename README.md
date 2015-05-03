@@ -1,7 +1,7 @@
 # franguetinha
 Command line media player for Raspberry Pi 
 
-#How to run
+##How to run
 The running jar is located inside the build folder
 
 ```
